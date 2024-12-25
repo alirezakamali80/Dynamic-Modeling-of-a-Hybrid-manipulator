@@ -6,6 +6,8 @@ The topic is Dynamic Modeling of a Hyper-Redundant Gough-Stewart Serial-Parallel
 
 Below, I have briefly explained my completed tasks in this project, and I aim to finalize and defend my research by July 2025.
 
+![DoubleSegmentGSM](./DoubleSegmentGSM.png)
+
 **Dynamic Modeling of Double Segment Redundant Gough-Stewart Hybrid Manipulator based on the Principle of Virtual Work**  
 Presented at the *International Conference on Robotics and Mechatronics (ICRoM 2024)*.
 
