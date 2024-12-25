@@ -34,45 +34,6 @@ This project addresses these challenges by:
 - Simscape simulation files for validation.
 - Comprehensive error analysis.
 
-## Repository Structure
-
-```plaintext
-├── data
-│   ├── trajectories    # Predefined trajectories (Helical, Lemniscate)
-│   ├── parameters      # Manipulator geometry and mass properties
-├── src
-│   ├── dynamics        # Dynamic modeling scripts
-│   ├── kinematics      # Forward and inverse kinematics scripts
-│   ├── utils           # Helper functions for simulations
-├── validation
-│   ├── simscape_model  # Simscape files for validation
-│   ├── results         # Comparison of analytical and simulated results
-├── docs
-│   ├── paper_summary.md  # Summary of the accompanying paper
-│   ├── references.md     # Key references and links
-├── README.md            # Project overview (this file)
-```
-
-## How to Use
-
-### Prerequisites
-
-- MATLAB (R2022b or newer).
-- Simscape toolbox.
-
-### Steps to Reproduce
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/alirezakamali80/dynamic-modeling-gsm.git
-   ```
-2. Navigate to the repository:
-   ```bash
-   cd dynamic-modeling-gsm
-   ```
-3. Open MATLAB and set the repository folder as the working directory.
-4. Run the dynamic modeling scripts in `src/dynamics/` to derive forces and actuator lengths.
-5. Use Simscape files in `validation/simscape_model` to compare results.
 
 ### Trajectories
 
@@ -100,4 +61,3 @@ This project addresses these challenges by:
 
 **Author:** Alireza Kamali Ardakani  
 **Email:** [alirezakamali@ut.ac.ir](mailto:alirezakamali@ut.ac.ir)  
-**GitHub:** [alirezakamali80](https://github.com/alirezakamali80)
