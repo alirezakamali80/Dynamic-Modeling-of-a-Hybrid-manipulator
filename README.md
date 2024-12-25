@@ -8,7 +8,7 @@ Below, I have briefly explained my completed tasks in this project, and I aim to
 You can see my presentation file for the ICROM 2024 in this below link.
 
 
-![ICROM Presentation]([[https://github.com/alirezakamali80](https://github.com/alirezakamali80/Dynamic-Modeling-of-a-Hybrid-manipulator/blob/main/DynamicModeling_AlirezaKamali.pdf)]
+![ICROM Presentation][https://github.com/alirezakamali80/Dynamic-Modeling-of-a-Hybrid-manipulator/blob/main/DynamicModeling_AlirezaKamali.pdf]
 
 
 ![DoubleSegmentGSM](./DoubleSegmentGSM.png)
