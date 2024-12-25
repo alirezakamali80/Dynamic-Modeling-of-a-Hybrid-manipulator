@@ -6,10 +6,10 @@ The topic is Dynamic Modeling of a Hyper-Redundant Gough-Stewart Serial-Parallel
 
 Below, I have briefly explained my completed tasks in this project, and I aim to finalize and defend my research by July 2025.
 You can see my presentation file for the ICROM 2024 in this below link
-[ICROM Presentation]([https://github.com/alirezakamali80](https://github.com/alirezakamali80/Dynamic-Modeling-of-a-Hybrid-manipulator/blob/main/DynamicModeling_AlirezaKamali.pdf)) 
+![ICROM Presentation]([https://github.com/alirezakamali80](https://github.com/alirezakamali80/Dynamic-Modeling-of-a-Hybrid-manipulator/blob/main/DynamicModeling_AlirezaKamali.pdf)) 
 
 
-
+![DoubleSegmentGSM](./DoubleSegmentGSM.png)
 **Dynamic Modeling of Double Segment Redundant Gough-Stewart Hybrid Manipulator based on the Principle of Virtual Work**  
 Presented at the *International Conference on Robotics and Mechatronics (ICRoM 2024)*.
 
