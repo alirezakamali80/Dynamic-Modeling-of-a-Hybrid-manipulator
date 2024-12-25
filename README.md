@@ -1,10 +1,12 @@
 # Dynamic Modeling of a Hyper-Redundant Gough-Stewart Serial-Parallel Manipulator
 
-At the end of my undergraduate studies at the School of Mechanical Engineering at the University of Tehran, I decided to delve deeper into the field of robotics while contributing to research papers being conducted in the Human & Robot Interaction Laboratory under the supervision of Dr. Mehdi Tale Masouleh. My bachelor thesis was defined in April 2024, and I am currently working on it.
+At the end of my undergraduate studies at the School of Mechanical Engineering at the University of Tehran, I decided to delve deeper into the field of robotics while contributing to research papers being conducted in the **Human & Robot Interaction Laboratory under the supervision of Dr. Mehdi Tale Masouleh**. My bachelor thesis was defined in April 2024, and I am currently working on it.
 
 The topic is Dynamic Modeling of a Hyper-Redundant Gough-Stewart Serial-Parallel Manipulator, and so far, this fascinating project has progressed to the modeling of double-segment Gough-Stewart platforms. My work on these serial-parallel manipulators has resulted in an accepted paper at the International Conference on Robotics and Mechatronics (ICRoM 2024), which I recently presented at the conference.
 
 Below, I have briefly explained my completed tasks in this project, and I aim to finalize and defend my research by July 2025.
+You can see my presentation file for the ICROM 2024 in this below link
+[ICROM Presentation]([https://github.com/alirezakamali80](https://github.com/alirezakamali80/Dynamic-Modeling-of-a-Hybrid-manipulator/blob/main/DynamicModeling_AlirezaKamali.pdf)) 
 
 ![DoubleSegmentGSM](./DoubleSegmentGSM.png)
 
