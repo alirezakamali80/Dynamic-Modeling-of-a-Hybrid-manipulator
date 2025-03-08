@@ -69,5 +69,6 @@ This project addresses these challenges by:
 
 ## Contact
 
-**Author:** Alireza Kamali Ardakani  
+**Author:** Alireza Kamali Ardakani - Hossein Akbari
 **Email:** [alirezakamali@ut.ac.ir](mailto:alirezakamali@ut.ac.ir)  
+**Email:** [akbari.hossein@ut.ac.ir](mailto:akbari.hossein@ut.ac.ir)  
