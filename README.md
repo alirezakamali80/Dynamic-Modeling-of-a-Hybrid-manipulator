@@ -9,7 +9,7 @@ You can see my presentation file for the ICROM 2024 in this below link.
 
 
 ![ICROM Presentation]
-(https://github.com/alirezakamali80/Dynamic-Modeling-of-a-Hybrid-manipulator/blob/main/ICROM_VIDEO.mp4)
+(https://github.com/alirezakamali80/Dynamic-Modeling-of-a-Hybrid-manipulator/blob/main/ICROM_VIDEO.MP4)
 
 
 **Dynamic Modeling of Double Segment Redundant Gough-Stewart Hybrid Manipulator based on the Principle of Virtual Work**  
